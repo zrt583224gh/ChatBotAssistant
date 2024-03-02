@@ -1,0 +1,1 @@
+A versatile chatbot assistant designed to provide automated support and answer frequently asked questions. It utilizes natural language processing algorithms to understand user queries and deliver relevant responses in a conversational manner.

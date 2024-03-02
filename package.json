@@ -1,0 +1,26 @@
+{
+"name": "7ot1ssista",
+"version": "1.0.0",
+"description": " A versatile chatbot assistant designed to provide automated support and answer frequently asked questions. It utilizes natural language processing algorithms to understand user queries and deliver relevant responses in a conversational manner",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/zrt583224gh/ChatBotAssistant.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "zrt583224gh",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
